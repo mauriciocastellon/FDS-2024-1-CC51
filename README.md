@@ -4,7 +4,7 @@
 
 **#Nombre de los alumnos participantes**
 
-:dependabot:	Francesca Nicole Bances Torres  (U202214090)  :grinning:	  
+:dependabot:	Francesca Nicole Bances Torres  (U202214090)  :grinning:	 Data Analytics 
  
 :dependabot:	Marsi Valeria Figueroa Larragán (U202220990)  :grinning:	 Data Science                                     
 
