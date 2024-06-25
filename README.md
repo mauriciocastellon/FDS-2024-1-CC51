@@ -4,14 +4,15 @@
 
 **Nombre de los alumnos participantes**
 
-Francesca Nicole Bances Torres  (U202214090)  :grinning:	                               
+:dependabot:	Francesca Nicole Bances Torres  (U202214090)  :grinning:	  
  
-Marsi Valeria Figueroa Larragán (U202220990)  :grinning:	                                       
+:dependabot:	Marsi Valeria Figueroa Larragán (U202220990)  :grinning:	Data Science                                     
 
-Mauricio Eduardo Vera Castellón (U20181H114)  :grinning:	
+:dependabot:	Mauricio Eduardo Vera Castellón (U20181H114)  :grinning:	Data Engineer    
 
 
-**Breve descripción del conjunto de datos
+**Dataset**
+Tendencias de las estadísticas de videos de YouTube [Kaggle Dataset](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
  PDF 
  
@@ -19,3 +20,5 @@ Mauricio Eduardo Vera Castellón (U20181H114)  :grinning:
 
 
 **Licencia de uso**
+Se ha acordado usar para este proyecto analítico la licencia  [Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+
