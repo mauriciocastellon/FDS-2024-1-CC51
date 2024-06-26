@@ -16,10 +16,7 @@ El conjunto de datos analizado, conocido como "Tendencias de las estadísticas d
 
 **#Dataset**
 Tendencias de las estadísticas de videos de YouTube [Kaggle Dataset](https://www.kaggle.com/datasets/datasnaek/youtube-new)
-
- PDF 
-
- [CSV](Data/CA_category_id.json)
+[CSV](Data/CAvideos_cc50_202101.csv)
  
 **#Conclusiones**
 
