@@ -20,7 +20,9 @@ Tendencias de las estadísticas de videos de YouTube [Kaggle Dataset](https://ww
  
 # **Conclusiones**
 
+Se cumplieron todos los requisitos establecidos para este proyecto. Primero, se preprocesaron y transformaron los datos de videos de YouTube de manera efectiva, aplicando técnicas de normalización y codificación de variables categóricas sin eliminar categorías. Se aseguraron de que las variables relevantes fueran seleccionadas y las irrelevantes fueran eliminadas, garantizando que el conjunto de datos resultante fuera apropiado para el análisis y el modelado.
 
+Posteriormente, se construyó y evaluó un modelo de regresión lineal para predecir el número de vistas (views). El modelo fue entrenado y evaluado utilizando un conjunto de datos dividido en entrenamiento y prueba, y se calculó el error cuadrático medio (MSE) para medir su precisión. Además, se realizó una validación cruzada para asegurar la robustez del modelo. Los objetivos del proyecto, que incluían la preparación de datos, la construcción del modelo predictivo y la evaluación de su desempeño, fueron logrados con éxito, cumpliendo con los requisitos especificados.
 
 # **Licencia de uso**
 Se ha acordado usar para este proyecto analítico la licencia  [Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
